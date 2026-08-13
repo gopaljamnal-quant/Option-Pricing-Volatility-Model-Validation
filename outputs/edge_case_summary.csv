@@ -1,0 +1,8 @@
+,0
+n_cases,175.0
+pct_price_finite,1.0
+pct_price_nonneg,1.0
+pct_iv_roundtrip_ok,1.0
+n_iv_ill_posed_low_vega,81.0
+pct_all_pass,1.0
+n_failures,0.0
