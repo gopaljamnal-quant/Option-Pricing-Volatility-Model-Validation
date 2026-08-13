@@ -1,3 +1,3 @@
 comparison,dm_statistic,p_value,n_obs,conclusion
-LSTM_vs_EWMA,0.00023848364332833386,0.999809717584788,246,no significant difference at 5% level
-GARCH_vs_EWMA,0.791892263432629,0.4284234984237556,246,no significant difference at 5% level
+LSTM_vs_EWMA,-0.9040827711830517,0.3659515132896636,246,no significant difference at 5% level
+GARCH_vs_EWMA,0.7918944285148872,0.42842223589145423,246,no significant difference at 5% level
